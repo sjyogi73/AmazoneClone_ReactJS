@@ -19,7 +19,7 @@ This project is made for DevTown ( Bootcamp )
 About the Features & functionality :
 
 
-**NavBar**
+**NavBar & Banner**
 
     * Is Contain Logo with Company Name 
     * Search Field 
