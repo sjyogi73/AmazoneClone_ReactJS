@@ -1,6 +1,5 @@
-# Getting Started with Create React App Task With - DevTown /
-
-
+Getting Started with Create React App Task With - DevTown 
+ 
 Installation Process :
 
    * Open Command prompt
