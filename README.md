@@ -4,6 +4,8 @@ Installation Process :
 
    * Open Command prompt
    * Clone a Project Copy & Page a Clone Commend
+
+
      git clone https://github.com/sjyogi73/Dev_Town_AmazoneClone.git
    
    * npm install ( For Install Modules )
