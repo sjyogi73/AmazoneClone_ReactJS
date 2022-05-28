@@ -1,5 +1,17 @@
 # Getting Started with Create React App Task With - DevTown /
 
+
+Instalation Process 
+   * Open Command prompt
+   * Clone a Project Copy & Page a Clone Commend
+     git clone https://github.com/sjyogi73/Dev_Town_AmazoneClone.git
+   
+   * npm install ( For Install Modules )
+   * npm start ( Start a Project )
+   * Open Web and Run a Port 3000
+     http://localhost:3000/
+     
+
 This project is made for DevTown ( Bootcamp )
 
 ## Available Features
