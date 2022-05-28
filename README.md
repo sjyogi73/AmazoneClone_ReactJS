@@ -28,7 +28,7 @@ About the Features & functionality :
     * Cart Session
 
 
- ** Navbar Picture **
+ ** Navbar_Picture **
  
   ![Home01](https://user-images.githubusercontent.com/82278181/170811062-cebef563-bc4d-4cae-82e9-a531f97ad58c.png)
   
@@ -41,7 +41,7 @@ Home Page
   
   
   
- **Home Page Picture**
+ **Home Page Image**
   
   ![Home02](https://user-images.githubusercontent.com/82278181/170811069-3fb67497-2e92-4555-b06b-6101f1393097.png)
 
