@@ -1,4 +1,4 @@
-Getting Started with Create React App Task With - DevTown 
+Getting Started with Create React App Task 
  
 Installation Process :
 
@@ -76,7 +76,7 @@ Login Page
 
 Social Media :
 
-              Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
+Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
 
 
 
