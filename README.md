@@ -1,22 +1,40 @@
-Getting Started with Create React App Task 
+# Getting Started with Create React App
+
+This project is Developed for Twitter-Auth ( Login Page ) with Firebase
+
+Developed With RREACTBOOTSTRAP  + REACTJS 
+        
+       
+       This Project Only For developing my Skill
+       
+       Note: Try to make your Own Project , This Only For Reference to it
+
  
-Installation Process :
+ Method to Run Project in your PC
+       
+       
+      git clone https://github.com/sjyogi73/AmazoneClone_ReactJS.git
+      
+      cd App-name
+      
+      npm install
+      
+      npm start
+      
+      Check http://localhost:3000/
 
-   * Open Command prompt
-   * Clone a Project Copy & Page a Clone Commend
-
-
-     git clone https://github.com/sjyogi73/Dev_Town_AmazoneClone.git
-   
-   * npm install ( For Install Modules )
-   * npm start ( Start a Project )
-   * Open Web and Run a Port 3000
-     http://localhost:3000/
      
+Used dependencies For This Project
+ 
+      - React js
+      - MUI
+      - React-dom
+      - Firebase ( Database )
+      - Firebase ( Auth )
+      
 
-This project is made for DevTown ( Bootcamp )
 
-About the Features & functionality :
+# About the Features & functionality :
 
 
 **NavBar & Banner**
@@ -74,9 +92,18 @@ Login Page
 
 
 
-Social Media :
 
-Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
+
+Follow my Social Media & Subscribe Our Youtube Channel 🙏
+
+
+        Social Media :
+
+        Linked in : www.linkedin.com/in/yogeshwaran-s-37939021a
+        Youtube   : https://www.youtube.com/channel/UCP23FSqQPw2bAFsNrgCYA5A
+        
+                   
+😇 Thankyou For Visiting Our Page😇
 
 
 
