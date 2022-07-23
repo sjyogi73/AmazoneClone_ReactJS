@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Amazon Clone Reactjs with Bootstrap
 
 This project is Developed for Twitter-Auth ( Login Page ) with Firebase
 
@@ -29,6 +29,7 @@ Used dependencies For This Project
       - React js
       - MUI
       - React-dom
+      - Redux
       - Firebase ( Database )
       - Firebase ( Auth )
       
